@@ -16,4 +16,8 @@ This is a Flask-based chatbot that interacts with an SQLite database to answer u
    ```sh
    git clone https://github.com/YOUR_GITHUB_USERNAME/flask-sqlite-chatbot.git
 
+Known Limitations
+Simple SQL-based parsing (no advanced NLP).
+Currently supports only predefined queries.
+Can be improved using NLP libraries like spaCy or OpenAI models.
    
